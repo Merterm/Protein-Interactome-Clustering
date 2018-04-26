@@ -1,0 +1,13 @@
+# The contained cliques in the communities at k=4
+# from /Users/merterm/Google Drive/Academic/University/Bilkent CS 4'2 Finale/CS 425-Web-Scale/Web-Scale/wi.txt
+# at no lower link weight threshold,
+# and at no upper link weight threshold.
+# Links were treated as undirected.
+# No time limit was set for the clique search.
+
+0: 45 
+1: 68 
+2: 74 75 176 178 
+3: 86 
+4: 154 
+5: 182 183 233 196 214 221 212 234 

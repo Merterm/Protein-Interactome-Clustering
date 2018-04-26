@@ -1,0 +1,15 @@
+# The com. degree distr. of the  communities at k=3
+# from /Users/merterm/Google Drive/Academic/University/Bilkent CS 4'2 Finale/CS 425-Web-Scale/Web-Scale/wi.txt
+# at no lower link weight threshold,
+# and at no upper link weight threshold.
+# Links were treated as undirected.
+# No time limit was set for the clique search.
+
+0 6
+1 6
+2 7
+3 3
+4 2
+7 1
+16 1
+

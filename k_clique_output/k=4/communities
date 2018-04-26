@@ -1,0 +1,13 @@
+# The communities at k=4
+# from /Users/merterm/Google Drive/Academic/University/Bilkent CS 4'2 Finale/CS 425-Web-Scale/Web-Scale/wi.txt
+# at no lower link weight threshold,
+# and at no upper link weight threshold.
+# Links were treated as undirected.
+# No time limit was set for the clique search.
+
+0: Y69H2.3 B0024.14 C05G6.1 Y69H2.10 
+1: T11B7.4 T17H7.4 W04D2.1 M01E11.7 
+2: AC3.3 C03A7.4 F29G6.3 T01D1.6 Y69H2.3 B0024.14 ZK1067.7 
+3: C49A1.4 ZK121.2 C16B8.3 W01A11.4 
+4: T17H7.4 ZK849.2 H06I04.1 R11E3.6 
+5: T11B7.4 K09B11.9 W05H7.4 C18H9.7 T17H7.4 C06G1.5 F32B4.4 Y37D8A.21 Y57G11C.24 ZK121.2 F59E12.9 
