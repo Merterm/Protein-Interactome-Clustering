@@ -1,0 +1,16 @@
+# The size distr. of the  communities at k=5
+# from /Users/merterm/Downloads/AI_interactions/Al-interactions.txt
+# at no lower link weight threshold,
+# and at no upper link weight threshold.
+# Links were treated as undirected.
+# No time limit was set for the clique search.
+
+5 6
+6 3
+8 1
+10 1
+11 2
+12 3
+15 2
+21 2
+

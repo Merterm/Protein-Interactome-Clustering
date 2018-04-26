@@ -1,0 +1,15 @@
+# The node membership distr. in the  communities at k=3
+# from /Users/merterm/Downloads/AI_interactions/Al-interactions.txt
+# at no lower link weight threshold,
+# and at no upper link weight threshold.
+# Links were treated as undirected.
+# No time limit was set for the clique search.
+
+0 3458
+1 1264
+2 88
+3 12
+4 5
+5 1
+7 1
+

@@ -1,0 +1,15 @@
+# The contained cliques in the communities at k=7
+# from /Users/merterm/Downloads/AI_interactions/Al-interactions.txt
+# at no lower link weight threshold,
+# and at no upper link weight threshold.
+# Links were treated as undirected.
+# No time limit was set for the clique search.
+
+0: 714 1114 897 
+1: 740 1386 1119 909 1120 910 
+2: 860 861 1236 
+3: 1073 1074 
+4: 1194 
+5: 1503 1504 1505 
+6: 1562 
+7: 1629 1672 1673 

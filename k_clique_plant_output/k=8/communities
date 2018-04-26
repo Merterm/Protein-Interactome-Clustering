@@ -1,0 +1,9 @@
+# The communities at k=8
+# from /Users/merterm/Downloads/AI_interactions/Al-interactions.txt
+# at no lower link weight threshold,
+# and at no upper link weight threshold.
+# Links were treated as undirected.
+# No time limit was set for the clique search.
+
+0: AT1G14440 AT1G69600 AT1G75240 AT3G28920 AT3G50890 AT4G24660 AT5G15210 AT5G39760 AT5G65410 
+1: AT1G75390 AT3G62420 AT4G34590 AT5G49450 AT5G28770 AT4G02640 AT5G24800 AT2G18160 AT3G54620 
