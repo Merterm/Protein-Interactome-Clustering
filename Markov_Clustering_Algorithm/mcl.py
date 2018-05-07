@@ -2,7 +2,6 @@ import numpy as np
 import re
 import sklearn.preprocessing
 from scipy.sparse import csr_matrix
-from scipy.sparse import dok_matrix
 from scipy.sparse import random
 
 np.set_printoptions(suppress=True)
@@ -97,9 +96,10 @@ def prune(matrix, dimensions):
 
 #THIS IS TO BE CALLED
 def mcl_algorithm(matrix, dimensions):
-    selfLoop(matrix, dimensions)
+    #selfLoop(matrix, dimensions)
 
-    sp_matrix_orig = csr_matrix(np.matrix(matrix))
+    #This has to be in csr format
+    sp_matrix_orig = matrix
     
     normalize(sp_matrix_orig)
 
