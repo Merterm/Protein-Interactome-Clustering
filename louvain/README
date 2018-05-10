@@ -1,0 +1,9 @@
+Implementation of Louvain algorithm for community detection on protein interaction datasets.
+
+In /data folder there is C. elegans worm protein interactome data. 
+
+In order to run this implementation, use the following command.
+
+> python3 test.py
+
+Please make sure you are using "python3" command instead of "python" command. Otherwise modularity values are displayed as zero.
